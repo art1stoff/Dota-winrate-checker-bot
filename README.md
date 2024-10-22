@@ -1,9 +1,7 @@
-<h1 align="center">Dota winrate checker bot</h1>\
-
+<h1 align="center">Dota winrate checker bot</h1>
 <p align="center">
 A simple discord bot that, on command, gives the win rate of a Dota hero in pro matches
 </p>
-
 ## ⬇️ Installation
 
 - Make sure you have Python 3.8+ and required libraries installed.
