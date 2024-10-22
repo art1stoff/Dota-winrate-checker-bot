@@ -2,7 +2,7 @@
 <p align="center">
 A simple discord bot that gives the win rate of a Dota hero in pro matches
 </p>
-⬇️ INSTALLATION
+### ⬇️ Installation
 
 - Make sure you have Python 3.8+ and required libraries installed.
 - Install the required libraries
